@@ -1,4 +1,4 @@
-![ex-5(LG)](https://github.com/user-attachments/assets/c3ff5f67-a487-432b-bba0-930fc3fb2e08)![ex-5(LG)](https://github.com/user-attachments/assets/26381a0e-f29a-4ccb-b0df-32fff3e28acf)### ENCODER 8TO3 DATAFLOW Modelling
+
 
 **AIM:**
 
@@ -60,6 +60,7 @@ Developed by: RegisterNumber:
 
 
 **RESULTS**
+Implementing Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables executed succesfully.
 
 
 
